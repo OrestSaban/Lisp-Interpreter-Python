@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Temporary test files
+temp_test.lisp
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store 
